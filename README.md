@@ -1,5 +1,14 @@
 # ft_printf
 
+## 📋 Tabla de Contenidos
+- [📝 Descripción](#-descripción)
+- [🛠️ Compilación](#️-compilación)
+- [📚 Uso](#-uso)
+- [✅ Pruebas](#-pruebas)
+- [🔍 Características](#-características)
+- [🧪 Ejemplos](#-ejemplos)
+- [📋 Evaluación](#-evaluación)
+
 ## 📝 Descripción
 Este proyecto consiste en replicar el funcionamiento de la función `printf` de la librería estándar de C. La función `ft_printf` implementa el manejo de los siguientes formatos:
 
